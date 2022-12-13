@@ -1,0 +1,55 @@
+body {
+    background: #252525;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+#center {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.main {
+    height: 40vh;
+    width: 70vw;
+    background-color: #996DFF;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 6px 6px 6px rgba(0,0,0,0.7);
+}
+
+#timer {
+    font-size: 90px;
+    text-shadow: 8px 8px 8px rgba(0,0,0,0.3);
+}
+
+.btns {
+    width: 25%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn {
+    height: 50px;
+    width: 90px;
+    display: block;
+    background-color: #323238;
+    color: #fff;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.3);
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #121214;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+    transition: 0.1s;
+}
