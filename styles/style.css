@@ -53,3 +53,20 @@ body {
     box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
     transition: 0.1s;
 }
+
+@media screen and (max-width: 450px) {
+
+    .main {
+        height: 50vh;
+    }
+
+    .btns {
+        width: 80%;
+        margin-top: 10vh;
+    }
+
+    .btn {
+        height: 60px;
+        width: 100px;
+    }
+}
