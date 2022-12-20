@@ -58,11 +58,11 @@ body {
 
     .main {
         height: 100vh;
-        width: 100vh;
+        width: 100vw;
     }
 
     .btns {
-        width: 25%;
+        width: 50%;
         margin-top: 10vh;
     }
 
