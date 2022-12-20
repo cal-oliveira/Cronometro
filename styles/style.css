@@ -57,11 +57,12 @@ body {
 @media screen and (max-width: 450px) {
 
     .main {
-        height: 50vh;
+        height: 100vh;
+        width: 100vh;
     }
 
     .btns {
-        width: 80%;
+        width: 25%;
         margin-top: 10vh;
     }
 
