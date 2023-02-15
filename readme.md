@@ -4,6 +4,10 @@
 Cronômetro desenvolvido com HTML, CSS e JS
 
 Design responsivo e otimizado para dispositivos móveis. 
+
+Projeto hospedado no github pages
+
+-> https://cal-oliveira.github.io/Cronometro/
 ## Screenshots
 
 ### web
